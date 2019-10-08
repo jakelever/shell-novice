@@ -1,5 +1,5 @@
-shell-novice
-============
+shell-novice-adventure
+======================
 
 An introduction to the Unix shell for people who have never used the command line before using an adventure concept.
 Please see <https://jakelever.github.io/shell-novice-adventure> for a rendered version of this material,
